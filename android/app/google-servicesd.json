@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "367001874977",
+    "project_id": "ecomercen-9619d",
+    "storage_bucket": "ecomercen-9619d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367001874977:android:4ea72a252ffc3b7ea42960",
+        "android_client_info": {
+          "package_name": "com.example.adminappn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4XOrW5lrIqFacoeGS4tqByWP6LBUH1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367001874977:android:174eb357dd898a87a42960",
+        "android_client_info": {
+          "package_name": "com.example.deliveryappn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4XOrW5lrIqFacoeGS4tqByWP6LBUH1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367001874977:android:68b36fc511f1f209a42960",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceappn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4XOrW5lrIqFacoeGS4tqByWP6LBUH1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
